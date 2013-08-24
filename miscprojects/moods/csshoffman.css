@@ -1,0 +1,122 @@
+
+			body{
+				background-color:#dbdace;
+				/*background-image:url("images/bg.jpg");*/
+				p.serif{font-family:Bookman Old Style,'Bookman','URW Bookman L','Palatino Linotype','serif';}
+				p.sansserif{font-family:Arial,Helvetica,sans-serif;}
+				p.normal {font-style:normal;}
+				p.italic {font-style:italic;}
+				p.oblique {font-style:oblique;}
+				font-size:25px;
+				color:#dbdace;
+			} 
+			p.big {line-height:155%;}
+			p.serif{font-family:Bookman Old Style,'Bookman','URW Bookman L','Palatino Linotype','serif';}
+			p.sansserif{font-family:Arial,Helvetica,sans-serif;}
+			p.normal {font-style:normal;}
+			p.italic1 {font-style:italic;line-height:145%;}
+			p.oblique {font-family:times new roman;font-style:oblique;}
+
+
+			a:link    {color:black;}
+			a:visited {color:black;}
+			a:hover   {color:#838383;}
+			a:active  {color:#f37d3c;}
+
+
+			
+			span{
+			}
+			
+			div{
+				border:0px solid #999999;
+				margin:16px 0px 0px 0px;
+				padding:20px;
+				width:530px;
+				height:30px;
+				background-color:#dbdace;
+				color:#000000;
+				opacity:1;
+				font-size:18px;
+			}
+			
+			#box1{
+				position:absolute;
+				height:400px;
+				top:150px;
+				left:20px;
+				opacity: 1;
+			}
+			
+			
+
+			}
+		
+			#box3{
+				position:absolute;
+				width:200px;
+				top:480px;
+				left:900px;
+				opacity:.65;
+
+			}
+			
+			#box4{
+				position:absolute;
+				width:200px;
+				top:-150px;
+				left:900px;
+				opacity:.65;
+
+				
+			}
+
+			
+			#box5{
+				position:absolute;
+				padding:20px;
+				p.italic {font-style:italic;}
+				width:20px;
+				height:200px;
+				top:90px;
+				left:220px;
+				font-size:18px;
+			
+								
+			}
+			
+			
+			#box5.1{
+				position:absolute;
+				p.italic {font-style:italic;}
+				width:500px;
+				height:200px;
+				top:400px;
+				left:500px;
+				font-size:26px;
+				opacity:.65;
+
+				
+			}
+
+			#box6{
+				position:absolute;
+				width:400px;
+				height:200px;
+				top:-25px;
+				left:600px;
+			}
+
+			#box7{
+				position:absolute;
+				top:-150px;
+				width:350;
+				left:19px;
+				opacity: 1;			
+				}
+
+		
+				
+			
+		
+
